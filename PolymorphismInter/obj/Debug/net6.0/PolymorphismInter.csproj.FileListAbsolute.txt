@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\PolymorphismInter\PolymorphismInter\obj\Debug\net6.0\PolymorphismInter.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\PolymorphismInter\PolymorphismInter\obj\Debug\net6.0\PolymorphismInter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\PolymorphismInter\PolymorphismInter\obj\Debug\net6.0\PolymorphismInter.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\PolymorphismInter\PolymorphismInter\obj\Debug\net6.0\PolymorphismInter.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\PolymorphismInter\PolymorphismInter\obj\Debug\net6.0\PolymorphismInter.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\PolymorphismInter\PolymorphismInter\bin\Debug\net6.0\PolymorphismInter.exe
+C:\Users\ASUS\source\repos\PolymorphismInter\PolymorphismInter\bin\Debug\net6.0\PolymorphismInter.deps.json
+C:\Users\ASUS\source\repos\PolymorphismInter\PolymorphismInter\bin\Debug\net6.0\PolymorphismInter.runtimeconfig.json
+C:\Users\ASUS\source\repos\PolymorphismInter\PolymorphismInter\bin\Debug\net6.0\PolymorphismInter.dll
+C:\Users\ASUS\source\repos\PolymorphismInter\PolymorphismInter\bin\Debug\net6.0\PolymorphismInter.pdb
+C:\Users\ASUS\source\repos\PolymorphismInter\PolymorphismInter\obj\Debug\net6.0\PolymorphismInter.dll
+C:\Users\ASUS\source\repos\PolymorphismInter\PolymorphismInter\obj\Debug\net6.0\refint\PolymorphismInter.dll
+C:\Users\ASUS\source\repos\PolymorphismInter\PolymorphismInter\obj\Debug\net6.0\PolymorphismInter.pdb
+C:\Users\ASUS\source\repos\PolymorphismInter\PolymorphismInter\obj\Debug\net6.0\PolymorphismInter.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\PolymorphismInter\PolymorphismInter\obj\Debug\net6.0\ref\PolymorphismInter.dll
